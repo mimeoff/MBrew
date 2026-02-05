@@ -21,6 +21,16 @@ MBrew: Local-first brewing companion for home brewers & beer enthusiasts. Design
 | Privacy First | Local storage; works offline | Your recipes stay on your device |
 | Multi-language | English / Chinese / German / French | Easier collaboration across regions |
 
+## App Details
+
+MBrew integrates the complete brewing workflow, from recipe design to batch documentation, solving all your craft beer needs in one place. Built-in BJCP style guidelines help you quickly master standard parameters for various beer styles. Real-time calculations let you instantly adjust recipes and see changes in OG, FG, ABV, IBU, SRM and other key metrics - no more guesswork.
+
+Full process tracking records detailed data for each stage: mash, boil, fermentation, and aging - capturing time, temperature, gravity, and more. This ensures batch consistency and helps you reproduce great results. The ingredient library manages inventory for malt, hops, yeast, and all brewing materials, with support for custom ingredients to build your own ingredient knowledge base.
+
+Data visualization charts make complex brewing data clear at a glance - showing fermentation trends, inventory changes, and cost breakdowns. Most importantly, MBrew's local-first design keeps all your data on your device, working offline to protect your recipe privacy.
+
+Whether you're a new homebrewer just starting, an advanced brewer seeking precise control, or a professional brewer needing standardized processes, MBrew provides the right solution. Make brewing more scientific and achieve your target profile every time.
+
 ## Keywords
 
 craft beer, brewing, recipe, calculator, homebrew, hops, malt, yeast, BJCP
