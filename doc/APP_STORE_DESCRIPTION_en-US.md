@@ -1,6 +1,6 @@
 # MBrew: Craft Beer Recipe & Brewing Assistant (Project Overview)
 
-MBrew is a local-first brewing companion for craft beer enthusiasts and professional brewers. It brings recipe design, key metric calculations, end-to-end brew tracking, and visual analytics into one workflow so you can hit your target profile and reliably reproduce your best batches.
+MBrew: Local-first brewing companion for home brewers & beer enthusiasts. Design recipes, calculate metrics, track brewing. Hit target profiles & reproduce best batches.
 
 ## Who It’s For
 

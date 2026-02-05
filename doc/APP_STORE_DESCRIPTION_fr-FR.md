@@ -1,6 +1,6 @@
 # MBrew : Assistant de brassage de bière artisanale (Présentation du projet)
 
-MBrew est un outil local-first pour les amateurs de bière artisanale et les brasseurs professionnels. Il regroupe la conception de recettes, le calcul des indicateurs, le suivi complet du brassage et la visualisation des données, afin d’atteindre plus facilement le profil souhaité et de reproduire vos meilleurs brassins.
+MBrew: Outil local-first pour bière artisanale & brasseurs. Concevoir recettes, calculer indicateurs, suivre brassins. Atteindre profils cibles & reproduire.
 
 ## Pour qui ?
 

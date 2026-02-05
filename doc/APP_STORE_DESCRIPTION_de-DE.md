@@ -1,6 +1,6 @@
 # MBrew: Brauassistent für Craft Beer (Projektvorstellung)
 
-MBrew ist ein Local-first Tool für Craft-Beer-Fans und professionelle Brauer. Es kombiniert Rezeptentwicklung, Kennzahlenberechnung, lückenlose Prozessdokumentation und Visualisierung, damit Sie Zielwerte sicher treffen und erfolgreiche Sude zuverlässig reproduzieren können.
+MBrew: Local-first Begleiter für Bier-Enthusiasten & Brauer. Rezepte entwickeln, Werte berechnen, Brauprozesse verfolgen. Zielprofile treffen & Ergebnisse wiederholen.
 
 ## Für wen ist das?
 
