@@ -29,9 +29,9 @@ MBrew 是一款面向精酿啤酒爱好者与专业酿酒师的本地优先（Lo
 
 |  |  |  |
 | --- | --- | --- |
-| ![](../pic/zh-CN/pic1.jpeg) | ![](../pic/zh-CN/pic2.jpeg) | ![](../pic/zh-CN/pic3.jpeg) |
-| ![](../pic/zh-CN/pic4.jpeg) | ![](../pic/zh-CN/pic5.jpeg) | ![](../pic/zh-CN/pic6.jpeg) |
-| ![](../pic/zh-CN/pic7.jpeg) | ![](../pic/zh-CN/pic8.jpeg) |  |
+| ![](../pic/zh-CN/pic1.png) | ![](../pic/zh-CN/pic2.png) | ![](../pic/zh-CN/pic3.png) |
+| ![](../pic/zh-CN/pic4.png) | ![](../pic/zh-CN/pic5.png) | ![](../pic/zh-CN/pic6.png) |
+| ![](../pic/zh-CN/pic7.png) | ![](../pic/zh-CN/pic8.png) |  |
 
 ## 项目链接
 

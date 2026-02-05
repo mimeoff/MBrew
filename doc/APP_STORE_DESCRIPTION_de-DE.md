@@ -29,9 +29,9 @@ craft beer, brauen, rezept, rechner, heimbrauer, hopfen, malz, hefe, BJCP
 
 |  |  |  |
 | --- | --- | --- |
-| ![](../pic/de-DE/pic1.jpeg) | ![](../pic/de-DE/pic2.jpeg) | ![](../pic/de-DE/pic3.jpeg) |
-| ![](../pic/de-DE/pic4.jpeg) | ![](../pic/de-DE/pic5.jpeg) | ![](../pic/de-DE/pic6.jpeg) |
-| ![](../pic/de-DE/pic7.jpeg) | ![](../pic/de-DE/pic8.jpeg) |  |
+| ![](../pic/de-DE/pic1.png) | ![](../pic/de-DE/pic2.png) | ![](../pic/de-DE/pic3.png) |
+| ![](../pic/de-DE/pic4.png) | ![](../pic/de-DE/pic5.png) | ![](../pic/de-DE/pic6.png) |
+| ![](../pic/de-DE/pic7.png) | ![](../pic/de-DE/pic8.png) |  |
 
 ## Links
 

@@ -29,9 +29,9 @@ craft beer, brewing, recipe, calculator, homebrew, hops, malt, yeast, BJCP
 
 |  |  |  |
 | --- | --- | --- |
-| ![](../pic/en-US/pic1.jpeg) | ![](../pic/en-US/pic2.jpeg) | ![](../pic/en-US/pic3.jpeg) |
-| ![](../pic/en-US/pic4.jpeg) | ![](../pic/en-US/pic5.jpeg) | ![](../pic/en-US/pic6.jpeg) |
-| ![](../pic/en-US/pic7.jpeg) | ![](../pic/en-US/pic8.jpeg) |  |
+| ![](../pic/en-US/pic1.png) | ![](../pic/en-US/pic2.png) | ![](../pic/en-US/pic3.png) |
+| ![](../pic/en-US/pic4.png) | ![](../pic/en-US/pic5.png) | ![](../pic/en-US/pic6.png) |
+| ![](../pic/en-US/pic7.png) | ![](../pic/en-US/pic8.png) |  |
 
 ## Links
 
