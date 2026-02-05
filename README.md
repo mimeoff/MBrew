@@ -33,8 +33,9 @@ MBrew is a local-first brewing companion for craft beer enthusiasts and professi
 
 |  |  |  |
 | --- | --- | --- |
-| ![](pic/en-US/pic/pic1.png) | ![](pic/en-US/pic/pic2.png) | ![](pic/en-US/pic/pic3.png) |
-| ![](pic/en-US/pic/pic4.png) | ![](pic/en-US/pic/pic5.png) | ![](pic/en-US/pic/pic6.png) |
+| ![](pic/en-US/pic1.png) | ![](pic/en-US/pic2.png) | ![](pic/en-US/pic3.png) |
+| ![](pic/en-US/pic4.png) | ![](pic/en-US/pic5.png) | ![](pic/en-US/pic6.png) |
+| ![](pic/en-US/pic7.png) | ![](pic/en-US/pic8.png) |  |
 
 <details>
 <summary>Other languages</summary>
@@ -43,21 +44,24 @@ MBrew is a local-first brewing companion for craft beer enthusiasts and professi
 
 |  |  |  |
 | --- | --- | --- |
-| ![](pic/zh-CN/pic/pic1.png) | ![](pic/zh-CN/pic/pic2.png) | ![](pic/zh-CN/pic/pic3.png) |
-| ![](pic/zh-CN/pic/pic4.png) | ![](pic/zh-CN/pic/pic5.png) | ![](pic/zh-CN/pic/pic6.png) |
+| ![](pic/zh-CN/pic1.png) | ![](pic/zh-CN/pic2.png) | ![](pic/zh-CN/pic3.png) |
+| ![](pic/zh-CN/pic4.png) | ![](pic/zh-CN/pic5.png) | ![](pic/zh-CN/pic6.png) |
+| ![](pic/zh-CN/pic7.png) | ![](pic/zh-CN/pic8.png) |  |
 
 ### German (de-DE)
 
 |  |  |  |
 | --- | --- | --- |
-| ![](pic/de-DE/pic/pic1.png) | ![](pic/de-DE/pic/pic2.png) | ![](pic/de-DE/pic/pic3.png) |
-| ![](pic/de-DE/pic/pic4.png) | ![](pic/de-DE/pic/pic5.png) | ![](pic/de-DE/pic/pic6.png) |
+| ![](pic/de-DE/pic1.png) | ![](pic/de-DE/pic2.png) | ![](pic/de-DE/pic3.png) |
+| ![](pic/de-DE/pic4.png) | ![](pic/de-DE/pic5.png) | ![](pic/de-DE/pic6.png) |
+| ![](pic/de-DE/pic7.png) | ![](pic/de-DE/pic8.png) |  |
 
 ### French (fr-FR)
 
 |  |  |  |
 | --- | --- | --- |
-| ![](pic/fr-FR/pic/pic1.png) | ![](pic/fr-FR/pic/pic2.png) | ![](pic/fr-FR/pic/pic3.png) |
-| ![](pic/fr-FR/pic/pic4.png) | ![](pic/fr-FR/pic/pic5.png) | ![](pic/fr-FR/pic/pic6.png) |
+| ![](pic/fr-FR/pic1.png) | ![](pic/fr-FR/pic2.png) | ![](pic/fr-FR/pic3.png) |
+| ![](pic/fr-FR/pic4.png) | ![](pic/fr-FR/pic5.png) | ![](pic/fr-FR/pic6.png) |
+| ![](pic/fr-FR/pic7.png) | ![](pic/fr-FR/pic8.png) |  |
 
 </details>
