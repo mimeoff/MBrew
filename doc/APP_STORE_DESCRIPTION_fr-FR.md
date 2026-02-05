@@ -1,6 +1,6 @@
-# Mbeer : Assistant de brassage de bière artisanale (Présentation du projet)
+# MBrew : Assistant de brassage de bière artisanale (Présentation du projet)
 
-Mbeer est un outil local-first pour les amateurs de bière artisanale et les brasseurs professionnels. Il regroupe la conception de recettes, le calcul des indicateurs, le suivi complet du brassage et la visualisation des données, afin d’atteindre plus facilement le profil souhaité et de reproduire vos meilleurs brassins.
+MBrew est un outil local-first pour les amateurs de bière artisanale et les brasseurs professionnels. Il regroupe la conception de recettes, le calcul des indicateurs, le suivi complet du brassage et la visualisation des données, afin d’atteindre plus facilement le profil souhaité et de reproduire vos meilleurs brassins.
 
 ## Pour qui ?
 
