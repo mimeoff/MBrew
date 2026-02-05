@@ -31,6 +31,7 @@ bière artisanale, brassage, recette, calculateur, houblon, malt, levure, BJCP
 | --- | --- | --- |
 | ![](../pic/fr-FR/pic1.jpeg) | ![](../pic/fr-FR/pic2.jpeg) | ![](../pic/fr-FR/pic3.jpeg) |
 | ![](../pic/fr-FR/pic4.jpeg) | ![](../pic/fr-FR/pic5.jpeg) | ![](../pic/fr-FR/pic6.jpeg) |
+| ![](../pic/fr-FR/pic7.jpeg) | ![](../pic/fr-FR/pic8.jpeg) |  |
 
 ## Liens
 

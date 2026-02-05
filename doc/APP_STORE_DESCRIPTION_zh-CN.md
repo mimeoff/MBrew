@@ -31,6 +31,7 @@ Mbeer 是一款面向精酿啤酒爱好者与专业酿酒师的本地优先（Lo
 | --- | --- | --- |
 | ![](../pic/zh-CN/pic1.jpeg) | ![](../pic/zh-CN/pic2.jpeg) | ![](../pic/zh-CN/pic3.jpeg) |
 | ![](../pic/zh-CN/pic4.jpeg) | ![](../pic/zh-CN/pic5.jpeg) | ![](../pic/zh-CN/pic6.jpeg) |
+| ![](../pic/zh-CN/pic7.jpeg) | ![](../pic/zh-CN/pic8.jpeg) |  |
 
 ## 项目链接
 
