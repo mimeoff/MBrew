@@ -35,4 +35,4 @@ craft beer, brewing, recipe, calculator, homebrew, hops, malt, yeast, BJCP
 
 ## Links
 
-- Repository: https://github.com/mimeoff/MBeer
+- Repository: https://github.com/mimeoff/MBrew

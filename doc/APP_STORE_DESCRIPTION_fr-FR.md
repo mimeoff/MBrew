@@ -35,4 +35,4 @@ bière artisanale, brassage, recette, calculateur, houblon, malt, levure, BJCP
 
 ## Liens
 
-- Dépôt : https://github.com/mimeoff/MBeer
+- Dépôt : https://github.com/mimeoff/MBrew

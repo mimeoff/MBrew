@@ -35,4 +35,4 @@ Mbeer 是一款面向精酿啤酒爱好者与专业酿酒师的本地优先（Lo
 
 ## 项目链接
 
-- 仓库：https://github.com/mimeoff/MBeer
+- 仓库：https://github.com/mimeoff/MBrew

@@ -35,4 +35,4 @@ craft beer, brauen, rezept, rechner, heimbrauer, hopfen, malz, hefe, BJCP
 
 ## Links
 
-- Repository: https://github.com/mimeoff/MBeer
+- Repository: https://github.com/mimeoff/MBrew
