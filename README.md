@@ -15,17 +15,17 @@ MBrew is a local-first brewing companion for craft beer enthusiasts and professi
 
 | Language | File |
 | --- | --- |
-| English (US) | doc/APP_STORE_DESCRIPTION_en-US.md |
-| Simplified Chinese | doc/APP_STORE_DESCRIPTION_zh-CN.md |
-| German | doc/APP_STORE_DESCRIPTION_de-DE.md |
-| French | doc/APP_STORE_DESCRIPTION_fr-FR.md |
+| English (US) | [APP_STORE_DESCRIPTION_en-US.md](doc/APP_STORE_DESCRIPTION_en-US.md) |
+| Simplified Chinese | [APP_STORE_DESCRIPTION_zh-CN.md](doc/APP_STORE_DESCRIPTION_zh-CN.md) |
+| German | [APP_STORE_DESCRIPTION_de-DE.md](doc/APP_STORE_DESCRIPTION_de-DE.md) |
+| French | [APP_STORE_DESCRIPTION_fr-FR.md](doc/APP_STORE_DESCRIPTION_fr-FR.md) |
 
 ## Privacy Policy
 
-- Privacy Policy (default): PRIVACY_POLICY.md
-- Simplified Chinese: pri/PRIVACY_POLICY_zh-CN.md
-- German: pri/PRIVACY_POLICY_de-DE.md
-- French: pri/PRIVACY_POLICY_fr-FR.md
+- Privacy Policy (default): [PRIVACY_POLICY.md](PRIVACY_POLICY.md)
+- Simplified Chinese: [PRIVACY_POLICY_zh-CN.md](pri/PRIVACY_POLICY_zh-CN.md)
+- German: [PRIVACY_POLICY_de-DE.md](pri/PRIVACY_POLICY_de-DE.md)
+- French: [PRIVACY_POLICY_fr-FR.md](pri/PRIVACY_POLICY_fr-FR.md)
 
 ## Screenshots
 
